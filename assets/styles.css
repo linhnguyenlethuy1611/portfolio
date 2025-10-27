@@ -146,6 +146,9 @@ a:hover {
   color: #7c7c7c;
   padding: 30px 0 35px 0;
 }
+#head {
+  outline: 3px solid red; /* Kiểm tra xem phần tử có được áp dụng */
+}
 
 /* Styles pour l'image circulaire dans l'en-tête */
 #head img.img-circle {
