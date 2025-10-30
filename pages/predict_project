@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <!-- Header -->
+    <head>
+        <meta charset="utf-8">	
+        <!-- Bootstrap v3 -->
+        <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
+        <!-- FontAwesome v6 -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa|Open+Sans:400,300,700">
+        <!-- Custom CSS styles -->
+        <link rel="stylesheet" href="../assets/styles.css">
+    </head>
+
+<body class="home">
+    <header id="header">
+        <div id="head" class="parallax" parallax-speed="2">
+            <h1 id="logo" class="text-center">
+                <a href="../index.html">
+                    <img class="img-circle" src="../images/profile_Linh.jpg" alt="Profile Picture">
+                </a>
+                <span class="title">Linh NGUYEN</span>
+                <span class="tagline">Data Scientist<br>
+                    <a href="mailto:linhnguyenlethuy1611@gmail.com">linhnguyenlethuy1611@gmail.com</a></span>
+            </h1>
+        </div>
+    </header>
+    <!-- /Header -->
+
+<main id="main">
+	<div class="container">
+		<div class="row topspace">
+			
+			<!-- Sidebar -->
+			<aside class="col-md-4 sidebar sidebar-left">
+				<div class="row widget">
+					<!-- Keywords -->
+					<div class="col-xs-12">
+						<h4>Mots clés</h4>
+						<div class="keywords">
+							<span class="tag">Python</span>
+							<span class="tag">-------</span>
+                            <span class="tag">-----</span>
+                            <span class="tag">----</span>
+							<span class="tag">-----</span>
+						</div>
+					</div>
+					<!-- /Keywords -->
+
+				<!-- Links -->
+				</div>
+				<div class="row widget">
+					<div class="col-xs-12">
+						<h4>Liens</h4>
+						<p class="repo-icons">
+							<a href="https://inpn.mnhn.fr/espece/cd_nom/65133">
+								<i class="fa-solid fa-globe"></i> Lien national de l'espèce
+							</a>
+						</p>
+					</div>
+				</div>
+				<!-- /Links -->
+
+			</aside>
+			<!-- /Sidebar -->
+
+			<!-- PageContent -->
+			<article class="col-sm-8 maincontent">
+				<header class="page-header">
+					<h1 class="page-title">Développer un algorithme pour prédire la distribution des espèces de la famille des Scombridés</h1>
+				</header>
+				<p>-----</p>
+                    <ul>
+                        <li>-----</li>
+                        <li>-----</li>
+                    </ul>
+				
+                <h3>Méthodologie</h3>
+                <p>----</p>
+                <p>----<b>----</b>, ----</p>
+                <p>---- <b>-----</b> ----</p>
+                <p>----</p>
+
+                <h3>Résultats</h3>
+                <p>----</p>
+                <p>---</p>
+                <p>----</p>
+                <p>----</p>
+                <center>
+					img src="../pages/images/average max AQI.png" alt="aqi results" width="90%">
+                    <p class="caption">Moyenne des AQI maximaux pour chaque État</p>
+                <p>---</p>
+                <p>---</p>
+          <img src="../pages/images/the percentage of dominant pollutants in USA.png" alt="aqi results" width="90%">
+                    <p class="caption">Le pourcentage des principaux polluants dans les États-Unis (1980-2022)</p>
+				</center>
+			</article>
+			<!-- /PageContent -->
+
+		</div>
+	</div>
+</main>
+
+<!-- Footer -->
+<footer id="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Contact</h3>
+				<div class="widget-body">
+					<p><a href="mailto:#">linhnguyenlethuy1611@gmail.com</a><br>
+						Boulogne-sur-Mer, France
+					</p>	
+				</div>
+			</div>
+
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Mes réseaux</h3>
+				<div class="widget-body">
+					<p class="follow-me-icons">
+						<a href="https://www.linkedin.com/in/le-thuy-linh-nguyen/"><i class="fab fa-linkedin fa-2"></i></a>
+						<a href="https://github.com/linhnguyenlethuy1611"><i class="fab fa-github fa-2"></i></a>
+					</p>
+				</div>
+			</div>
+
+			<div class="col-md-6 widget">
+				<h3 class="widget-title">A propos du site</h3>
+				<div class="widget-body">
+                    <p>----</p>
+					<p>----</p>
+                    <p>-----</p>
+				</div>
+			</div>
+
+		</div> <!-- /row of widgets -->
+	</div>
+</footer>
+
+<footer id="underfooter">
+	<div class="container">
+		<div class="row">
+			
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p>Niort, France </p>
+				</div>
+			</div>
+
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p class="text-right">
+						Copyright &copy; 2025, Linh NGUYEN<br></p>
+				</div>
+			</div>
+
+		</div> <!-- /row of widgets -->
+	</div>
+</footer>
+<!-- /Footer -->
+
+</body>
+</html>
